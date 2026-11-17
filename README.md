@@ -10,10 +10,6 @@
 
 Креслення КМД і ФМ1-З: https://raw.githack.com/mischenkoa85-creator/hostomel/main/kreslennia/index.html
 
-Лише модель на весь екран (для телефона): https://raw.githack.com/mischenkoa85-creator/victory-hall-atlas/hostomel-ses-3d/model.html
-
-Креслення КМД металоконструкцій і збірних фундаментів ФМ1-З (12 аркушів А3): https://raw.githack.com/mischenkoa85-creator/victory-hall-atlas/hostomel-ses-3d/kreslennia/index.html
-
 Посилання одразу на потрібне місце (дописати до адреси сторінки):
 - `#step=1` … `#step=9` — крок монтажу (збірні фундаменти); `#step=2&v=mono` — монолітний варіант;
 - `#build`, `#sun`, `#find`, `#data` — вкладки «Монтаж», «Сонце», «Аналіз», «Дані»;
